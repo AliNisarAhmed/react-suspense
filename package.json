@@ -33,7 +33,7 @@
   },
   "scripts": {
     "serve": "serve -s build",
-    "start": "react-scripts --openssl-legacy-provider start",
+    "start": "react-scripts start",
     "build": "react-scripts --openssl-legacy-provider build",
     "build:profile": "react-scripts --openssl-legacy-provider build --profile",
     "test": "react-scripts test --env=jsdom",
